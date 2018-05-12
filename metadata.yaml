@@ -1,0 +1,24 @@
+_repo: Yarmouth-Notes1830-1872.-Collected-from-the-File-of-the-Norwich-Mercury_39920
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Palmer, Frederick Danby
+    gutenberg_agent_id: '40304'
+    url: http://www.gutenberg.org/2009/agents/40304
+description: ''
+gutenberg_issued: '2012-06-05'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '39920'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Great Yarmouth (England) -- History'
+- !lcc 'DA'
+title: Yarmouth Notes, 1830-1872. Collated from the File of the Norwich Mercury
+url: http://www.gutenberg.org/ebooks/39920
